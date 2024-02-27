@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import {FaRegComment,FaRetweet} from "react-icons/fa"
 import {AiOutlineHeart} from "react-icons/ai"
+
 import {BsUpload} from "react-icons/bs"
 
 const FeedCard: React.FC = () => {
